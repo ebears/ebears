@@ -1,7 +1,6 @@
 ### 🐸 Hallo
 
-Self-taught programmer with an academic background in humanities.\
-I love **✨LUA**, **💫C**, **☄️Docker/YAML**, **🌠Markdown** and **🔮CLI**.\
+I love **✨LUA**, **💫C**, **☄️Docker/YAML**, **🌠Markdown** and **🔮CLI**.
 
 ### 🍈 Workstations
 
