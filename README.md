@@ -19,6 +19,6 @@ OS: Manjaro Sway
 #### 🐁 Pluto
 
 Raspberry Pi 4 Model B\
-OS: Ubuntu Server 20.04.3 LTS
+OS: HypriotOS / Ubuntu Server 20.04.3 LTS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebears&hide=stars,prs&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
