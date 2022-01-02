@@ -1,6 +1,6 @@
 ### 🐸 Hallo
 
-I love **✨LUA**, **💫C**, **☄️Docker/YAML**, **🌠Markdown** and **🔮CLI**.
+I love 🧙**JS**, **🪑HTML**, **✨CSS**, **🛥️Docker/YAML**, **🌠Markdown** and **🔮CLI**.
 
 ### 🍈 Workstations
 
