@@ -19,6 +19,6 @@ I love 🧙**JS**, **🪑HTML**, **✨CSS**, **🛥️Docker/YAML**, **🌠Markd
 #### 🐁 Pluto
 
 **Raspberry Pi 4 Model B**\
-**OS:** HypriotOS / Ubuntu Server 20.04.3 LTS
+**OS:** Ubuntu Server 22.04 LTS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebears&hide=stars,prs&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
