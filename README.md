@@ -8,7 +8,7 @@ I love 🧙**JS**, **🪑HTML**, **✨CSS**, **🛥️Docker/YAML**, **🌠Markd
 
 **CPU:** Ryzen 7 3700X\
 **GPU:** Geforce RTX 2070\
-**OS:** Windows 10 Pro 20H2
+**OS:** Garuda / Arch Linux // Windows 10 Pro 20H2
 
 #### 💻 Saturn
 
@@ -16,9 +16,10 @@ I love 🧙**JS**, **🪑HTML**, **✨CSS**, **🛥️Docker/YAML**, **🌠Markd
 **CPU:** Core i5-2520M\
 **OS:** Manjaro Sway
 
-#### 🐁 Pluto
+~~#### 🐁 Pluto~~
 
-**Raspberry Pi 4 Model B**\
-**OS:** Ubuntu Server 22.04 LTS
+~~**Raspberry Pi 4 Model B**~~\
+~~**OS:** Ubuntu Server 22.04 LTS~~\
+**RIP King**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebears&hide=stars,prs&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
