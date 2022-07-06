@@ -5,13 +5,13 @@ I love 🧙**JS**, **🪑HTML**, **✨CSS**, **🛥️Docker/YAML**, **🌠Markd
 ### 🍈 Workstations
 
 #### 🖥️ HAL
+
 ![Screenshot_2022-07-06_00-44-17](https://user-images.githubusercontent.com/80941110/177470598-ca4df7d7-7d2b-43a2-93dc-071c51e51d23.png)
 
 #### 💻 Saturn
 
 **Thinkpad T420**\
-**CPU:** Core i5-2520M\
-**OS:** Manjaro Sway
+![fastfetch](https://user-images.githubusercontent.com/80941110/177471597-ce08c983-c451-41bc-a25e-aa212ea05287.png)
 
 ~~#### 🐁 Pluto~~
 
