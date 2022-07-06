@@ -10,7 +10,6 @@ I love 🧙**JS**, **🪑HTML**, **✨CSS**, **🛥️Docker/YAML**, **🌠Markd
 
 #### 💻 Saturn
 
-**Thinkpad T420**\
 ![fastfetch](https://user-images.githubusercontent.com/80941110/177471597-ce08c983-c451-41bc-a25e-aa212ea05287.png)
 
 ~~#### 🐁 Pluto~~
