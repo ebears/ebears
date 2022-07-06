@@ -5,10 +5,7 @@ I love 🧙**JS**, **🪑HTML**, **✨CSS**, **🛥️Docker/YAML**, **🌠Markd
 ### 🍈 Workstations
 
 #### 🖥️ HAL
-
-**CPU:** Ryzen 7 3700X\
-**GPU:** Geforce RTX 2070\
-**OS:** Garuda / Arch Linux // Windows 10 Pro 20H2
+![Screenshot_2022-07-06_00-44-17](https://user-images.githubusercontent.com/80941110/177470598-ca4df7d7-7d2b-43a2-93dc-071c51e51d23.png)
 
 #### 💻 Saturn
 
