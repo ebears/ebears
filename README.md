@@ -1,6 +1,6 @@
 ### 🐸 Hallo
 
-Some languages I've been able to experience:  💾**C/C++**, 🌙**Lua**, 🐍**Python**, 🧙**JavaScript**, **🪑HTML**, **✨CSS**, **🛥️Docker** and **🌠Markdown**.
+❤️  💾**C/C++** | 🌙**Lua** | 🐍**Python** | 🧙**JavaScript** | **🪑HTML** | **✨CSS** | **🛥️Docker** | **🌠Markdown** ❤️
 
 ___
 
