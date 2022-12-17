@@ -13,7 +13,7 @@ ___
 
 #### 💻 Saturn
 
-![arch-btw](https://user-images.githubusercontent.com/80941110/193401294-3a1fc6e6-2aa6-49a9-a7b8-328f4cdb40e1.png)
+![image](https://user-images.githubusercontent.com/80941110/208231179-4235c1ee-ece3-4d0f-9fc1-660f9024bb5a.png)
 
 ___
 
