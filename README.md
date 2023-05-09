@@ -1,6 +1,6 @@
 ### 🐸 Hallo
 
-❤️  💾**C/C++** | 🌙**Lua** | 🐍**Python** | 🧙**JavaScript** | **🪑HTML** | **✨CSS** | **🛥️Docker** | **🌠Markdown** ❤️
+💾**C/C++** | 🌙**Lua** | 🐍**Python** | 🧙**JavaScript** | **🪑HTML** | **✨CSS** | **🛥️Docker** | **🌠Markdown**
 
 ___
 
