@@ -8,12 +8,7 @@ ___
 
 #### 🖥️ HAL
 
-![image](https://github.com/ebears/ebears/assets/80941110/2415ef19-9ef7-4b23-99d7-596e53b07a72)
-
-&&
-
-![image](https://user-images.githubusercontent.com/80941110/236593583-a77620fb-b688-4f38-a3a1-a2bbf6a11d7d.png)
-
+![image](https://github.com/ebears/ebears/assets/80941110/7093a92f-f560-48bf-9bcb-2e7879d8f76b)
 
 #### 💻 Saturn
 
