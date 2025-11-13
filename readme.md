@@ -28,7 +28,7 @@ ___
 
 #### OSes
 
-🪟**Windows** | 🟠**Ubuntu** | 🍥**Debian** | 🤠**Fedora** | ⛓️‍💥**Arch**
+🪟**Windows** | 🟠**Ubuntu** | 🍥**Debian** | 🤠**Fedora** | ⛓️‍💥**Arch** | 💾**Unraid**
 
 ___
 
