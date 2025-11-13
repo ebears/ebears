@@ -24,7 +24,11 @@ ___
 
 #### Development Environment
 
-📦**Git** | 💻**VS Code** | ⬇️**Winget** | 🐧**WSL**
+📦**Git** | 💻**VS Code** | ⬇️**Winget** | 🐧**WSL** | 🔄**GitHub Actions** | 🔐**SSH**
+
+#### OSes
+
+🪟**Windows** | 🟠**Ubuntu** | 🍥**Debian** | 🤠**Fedora** | ⛓️‍💥**Arch**
 
 ___
 
