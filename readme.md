@@ -2,6 +2,10 @@
 
 ### 🐸 Hallo
 
+<img src="octo-draw.gif" alt="Octopus Drawing" width="200"/>
+
+___
+
 #### Languages
 
 🐍**Python** | 🧙**JavaScript** | 🔷**TypeScript** | ⚙️**C** | 💎**Ruby** | 🌙**Lua** | 💻**Shell**
@@ -18,16 +22,12 @@
 
 🗄️**SQL** | 📝**Markdown**
 
+#### Development Environment
+
+📦**Git** | 💻**VS Code** | ⬇️**Winget** | 🐧**WSL**
+
 ___
 
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=ebears&hide=contribs,prs,stars&count_private=true&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=ebears&hide=contribs,prs,stars&count_private=true&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=ebears&hide=contribs,prs,stars&count_private=true&show_icons=true" />
+<img src="octo-pixel.gif" alt="Octopus Pixel" width="200"/>
 
 </div>
