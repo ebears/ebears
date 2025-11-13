@@ -16,7 +16,7 @@ ___
 
 #### Systems & Infrastructure
 
-🛥️**Docker** | 🐧**Linux Kernel**
+🛥️**Docker** | 🍿**Linux Kernel**
 
 #### Data & Documentation
 
