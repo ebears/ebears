@@ -1,10 +1,10 @@
 <div align="center">
 
-### 🐸 Hallo
-
 <img src="octo-draw.gif" alt="Octopus Drawing" width="200"/>
 
 ___
+
+### 🐸 Hallo
 
 #### Languages
 
@@ -28,7 +28,7 @@ ___
 
 #### OSes
 
-🪟**Windows** | 🟠**Ubuntu** | 🍥**Debian** | 🤠**Fedora** | ⛓️‍💥**Arch** | 💾**Unraid**
+🪟**Windows** | 🟠**Ubuntu** | 🍥**Debian** | 🤠**Fedora** | ⛓️‍💥**Arch** | 🕳️**Void Linux** | 💾**Unraid**
 
 ___
 
