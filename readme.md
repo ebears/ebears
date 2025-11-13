@@ -4,7 +4,7 @@
 
 #### Languages
 
-🐍**Python** | 🧙**JavaScript** | 🔷**TypeScript** | 💎**Ruby** | 🌙**Lua** | 💻**Shell**
+🐍**Python** | 🧙**JavaScript** | 🔷**TypeScript** | ⚙️**C** | 💎**Ruby** | 🌙**Lua** | 💻**Shell**
 
 #### Web Development
 
