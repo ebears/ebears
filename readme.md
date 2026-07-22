@@ -18,19 +18,6 @@
   <a href="https://go.dev"><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"></a>
   <br/>
   <br/>
-  <a href="https://github.com/ebears/alfira">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin?username=ebears&repo=alfira&theme=github_dark_dimmed" />
-  </a>
-  <br/>
-  <a href="https://github.com/ebears/srb2-docker">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin?username=ebears&repo=srb2-docker&theme=github_dark_dimmed" />
-  </a>
-  <br/>
-  <a href="https://github.com/ebears/srb2kart-docker">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin?username=ebears&repo=srb2kart-docker&theme=github_dark_dimmed" />
-  </a>
-  <br/>
-  <br/>
   <img height="155" src="https://github-stats-extended.vercel.app/api?username=ebears&rank_icon=default&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed" />
   <br/>
   <img height="155" src="https://github-stats-extended.vercel.app/api/top-langs?username=ebears&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=github_dark_dimmed" />
